@@ -32,7 +32,7 @@ Data Sources|
 
 ![retiring_titles](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.PNG)
 
-* There are 1,549 employees at the company who are eligible to mentor the future staff as older employees retire. 
+* There are 1,549 employees at the company who are eligible to mentor (born in 1965) the future staff as older employees retire
 
 ![mentorship_eligibility](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility.PNG)
 
