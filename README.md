@@ -28,14 +28,17 @@ Data Sources|
 ## Results of the Analysis
 
 ### Overview of Results 
-* There are just over 300,000 employees at Pewlett Hackard and 90,398 are eligible for retirement (born between 1952 and 1955)
+* There are **90,398** employees at Pewlett Hackard who are eligible for retirement (born between 1952 and 1955)
 
 ![retiring_titles](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.PNG)
 
-* There are 1,549 employees at the company who are eligible to mentor (born in 1965) the future staff as older employees retire
+* Using the same chart above, we see that Pewlett Hackard will need to replace **nearly 51,000 (or 64%) senior and manager employees** who will retire soon
+
+* There are **1,549** employees at the company who are eligible to mentor (born in 1965) the future staff as older employees retire
 
 ![mentorship_eligibility](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility.PNG)
 
+* Referencing the same chart above, **about 700 (or 46%) of the eligible mentors are senior employees** and will be tasked with training the future of the company
 
 ## Summary of the Analysis
 
