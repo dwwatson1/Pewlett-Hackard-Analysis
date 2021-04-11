@@ -4,6 +4,10 @@
 
 Pewlett Hackard is large, successful company boasting thousands of employees. The company wants to do an employee research analysis to prepare for the future. This will involve giving its older employees a generous retirement package to phase them out. Because this will leave thousands of job openings for the company, we need build an employee database, using SQL, to identify who will be offered retirement, which positions need to be filled, and who should mentor and train these future Pewlett Hackard employees.
 
+Before I began this analysis I built a entity relationship diagram (ERD) to map out the six original csvs provided and analyze their relationships to one another. What I noticed is that many of the csvs shared similar column names, which will make it easier to query and create cleaner data using SQL.
+
+![EmployeeDB](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
+
 ### Analysis Resources
 Data Sources| 
 ------------- | 
