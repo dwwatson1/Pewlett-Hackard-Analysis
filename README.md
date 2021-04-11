@@ -28,7 +28,8 @@ Data Sources|
 ## Results of the Analysis
 
 ### Overview of Results 
-*
+* There are just over 300,000 employees at Pewlett Hackard and 90,398 are eligible for retirement (born between 1952 and 1955)
+![retiring_titles](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.PNG)
 
 ## Summary of the Analysis
 
