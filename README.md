@@ -36,7 +36,7 @@ Data Sources|
 
 ![retiring_titles](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.PNG)
 
-* Using the same chart above, we see that Pewlett Hackard will need to replace **nearly 51,000 (or 64%) senior and manager employees** who will retire soon
+* Using the same chart above, we see that Pewlett Hackard will need to replace **nearly 58,000, or 64% of all eligible retiring employees, are senior and manager employees**
 
 * There are **1,549** employees at the company who are eligible to mentor (born in 1965) the future staff as older employees retire
 
@@ -48,3 +48,14 @@ Data Sources|
 
 ### Important Things to Note
   
+Pewlett Hackard will need to preparing for the future quickly. Upon further analysis of the entire employee count, there are 240,124 employees. See count by title below.
+
+![employee_count](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/employee_count.PNG)
+
+This means that **38%** of the entire company will be retiring soon, which is truly a __silver tsunami__. If we break down by title which have the highest percentage retiring, **Staff** and **Engineer** have the highest with **48%** and **46%** respectively.
+
+In addition to filling a large percentage of mid-level roles, the company is left to fill nearly 58,000 senior level roles with only 700 mentors. That is a very tall task because each mentor will have 80 employees to train, assuming they only want to promote from within.
+
+If shift our attention to the next wave of employees who will be retiring (born between 1956 and 1959) the picture is just as scary. Nearly 74,000 employees will be a part of the continued silver tsunami. It's important to note that **5 Managers** willl be a part of this wave. And in the previous wave, 2 Managers will have retired. In the current listing of eligible mentors, there are no Managers. That is particularly alarming when 7 of 9 will retire in the next 5-10 years. I recommend part of this second wave of retiring employees be added to the list of mentors, especially the Managers who can likely train employees for all types of roles.
+
+[retirement_ready_mentors](https://github.com/dwwatson1/Pewlett-Hackard-Analysis/blob/main/Images/retirement_ready_mentors.PNG)
